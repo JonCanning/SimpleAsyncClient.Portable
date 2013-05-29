@@ -5,14 +5,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 
-[assembly: AssemblyTitle("SimpleAsyncClient.Core")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SimpleAsyncClient.Core")]
+[assembly: AssemblyTitle("SimpleAsyncClient")]
+[assembly: AssemblyDescription("A simple async REST client")]
+[assembly: AssemblyCompany("Jon Canning")]
+[assembly: AssemblyProduct("SimpleAsyncClient")]
 [assembly: AssemblyCopyright("Copyright ©  2013")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
 // to COM components.  If you need to access a type in this assembly from 
